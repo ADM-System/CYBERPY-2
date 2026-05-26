@@ -8,3 +8,4 @@ Questo repository contiene l'**IDE (Ambiente di Sviluppo Integrato)** .
 ## 🚀 Funzionalità Attuali
 
 - **Apertura,chiusura modifica e salvataggio di file**
+- **il file output.py e' un file di prova**
